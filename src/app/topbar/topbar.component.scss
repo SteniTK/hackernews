@@ -1,0 +1,22 @@
+.topbar {
+    background-color: orangered;
+    display: flex;
+    height : 20px;
+
+    img {
+        align-self : center;
+        margin-left:10px;
+    }
+
+    .title {
+        margin-left : 10px;
+    }
+
+    .break {
+        padding: 0px 10px 0px 10px;
+    }
+
+    a {
+        padding : 0px 0px 0px 0px;
+    }
+}
